@@ -1,1 +1,1 @@
-# linearization-of-dynamic-system
+Está el modelo matemático completo.
